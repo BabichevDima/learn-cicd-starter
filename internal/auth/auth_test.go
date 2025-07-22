@@ -1,12 +1,12 @@
-package auth 
+package auth
 
-import ( 
+import (
 	"errors"
 	"net/http"
 	"testing"
 )
 
-func TestGetAPIKey(t *testing.T) { 
+func TestGetAPIKey(t *testing.T) {
 	tests := []struct {
 		name          string
 		headers       http.Header
