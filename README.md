@@ -1,4 +1,4 @@
-![Tests Status](https://github.com/BabichevDima/learn-cicd-starter/actions/workflows/go.yml/badge.svg)s
+![Tests Status](https://github.com/BabichevDima/learn-cicd-starter/actions/workflows/go.yml/badge.svg)
 
 # learn-cicd-starter (Notely)
 
